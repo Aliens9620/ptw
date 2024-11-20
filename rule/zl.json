@@ -53,6 +53,12 @@
             ]
         },
         {
+            "process_path": [
+                "/usr/bin/tailscaled",
+                "/usr/bin/zerotier-one"
+            ]
+        },
+        {
             "port": [
                 11305
             ]
