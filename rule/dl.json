@@ -12,7 +12,7 @@
        "android.clients.google.com"
       ],
       "domain": [
-        "connectivitycheck.gstatic.com"
+       "connectivitycheck.gstatic.com"
       ]
     }
   ]
