@@ -35,7 +35,9 @@
        "synology.cn",
        "tpddns.cn",
        "whatismyip.akamai.com"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
        "qcloud"
       ]
