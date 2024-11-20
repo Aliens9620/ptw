@@ -54,8 +54,8 @@
         },
         {
             "process_path_regex": [
-                "^/usr/bin/tailscaled.*",
-                "^/usr/bin/zerotier-one.*"
+                "^tailscaled.*",
+                "^zerotier-one.*"
             ]
         },
         {
