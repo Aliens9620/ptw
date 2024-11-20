@@ -10,7 +10,9 @@
        "googleapis.cn",
        "play.googleapis.com",
        "android.clients.google.com"
-      ],
+      ]
+    },
+    {
       "domain": [
        "connectivitycheck.gstatic.com"
       ]
