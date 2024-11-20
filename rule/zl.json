@@ -34,7 +34,9 @@
        "xluuss.com",
        "lmnno.com",
        "qrstt.com"
-       ],
+       ]
+    },
+    {
       "domain": [
        "mirror.ghproxy.com",
        "mirrors.vsean.net",
@@ -42,14 +44,20 @@
        "ghp.ci",
        "jp.taishan.pro",
        "ru.taishan.pro"
-       ],
+       ]
+    },
+    {
       "process_name": [
        "tailscaled",
        "zerotier-one"
-      ],
+      ]
+    },
+    {
      "port": [
       11305
-      ],
+      ]
+    },
+    {
      "domain_keyword": [
       "kuaikan",
       "kekedy",
