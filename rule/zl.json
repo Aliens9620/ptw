@@ -44,17 +44,17 @@
        "ru.taishan.pro"
        ],
       "process_name": [
-            "tailscaled",
-            "zerotier-one"
+       "tailscaled",
+       "zerotier-one"
       ],
      "port": [
-         11305
+      11305
       ],
      "domain_keyword": [
-          "kuaikan",
-          "kekedy",
-          "fuliba",
-          "susucloud"
+      "kuaikan",
+      "kekedy",
+      "fuliba",
+      "susucloud"
       ]
     }
   ]
