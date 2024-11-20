@@ -38,6 +38,18 @@
       ]
     },
     {
+      "domain": [
+       "account.synology.com",
+       "api.ipify.org",
+       "api.nn.ci",
+       "checkip.synology.com",
+       "checkipv6.synology.com",
+       "checkport.synology.com",
+       "ddns.synology.com",
+       "whatismyip.akamai.com"
+      ]
+    },
+    {
       "domain_keyword": [
        "qcloud"
       ]
