@@ -53,9 +53,9 @@
             ]
         },
         {
-            "process_path": [
-                "/usr/bin/tailscaled",
-                "/usr/bin/zerotier-one"
+            "process_path_regex": [
+                "^/usr/bin/tailscaled.*",
+                "^/usr/bin/zerotier-one.*"
             ]
         },
         {
