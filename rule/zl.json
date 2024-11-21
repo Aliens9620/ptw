@@ -38,7 +38,6 @@
         },
         {
             "domain": [
-                "mirror.ghproxy.com",
                 "mirrors.vsean.net",
                 "app.pingtools.org",
                 "ghp.ci",
