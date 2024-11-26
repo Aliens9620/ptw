@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain_suffix": [
+             "teslamotors.com",
+             "tesla.com",
+             "ntp.org",
+             "ihmcc.top",
+             "wnflb2023.com",
+             "tsss123.cc",
+             "kuaikan-cdn4.com",
+             "high25-playback.com",
+             "ffzy-video.com",
+             "ffzy-online2.com",                
+             "hhuus.com",
+             "pqrst.vip",
+             "lmnoprs.com",
+             "wlcdn99.com",
+             "kkzycdn.com",
+             "ffzyread1.com",
+             "high22-playback.com",
+             "kvod10.com",
+             "rrcdnbf3.com",
+             "jisuzyv.com",
+             "subokk.com",
+             "pqrt.cc",
+             "qrssv.com",
+             "tlkqc.com",
+             "longshengtea.com",
+             "ijkkl.com",
+             "bdzybf11.com",
+             "bfikuncdn.com",
+             "cdnlz3.com",
+             "xluuss.com",
+             "lmnno.com",
+             "qrstt.com"
+            ]
+        },
+        {
+            "domain": [
+                "mirrors.vsean.net",
+                "app.pingtools.org",
+                "ghp.ci",
+                "jp.taishan.pro",
+                "ru.taishan.pro"
+            ]
+        },
+        {
+            "port": [
+                11305
+            ]
+        },
+        {
+            "domain_keyword": [
+                "kuaikan",
+                "kekedy",
+                "fuliba",
+                "susucloud"
+            ]
+        }
+    ]
+}
