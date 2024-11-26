@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+       "soundon.fm"
+      ]
+    },
+    {
+      "domain": [
+       "filesb.soundon.fm"
+      ]
+    }
+  ]
+}
