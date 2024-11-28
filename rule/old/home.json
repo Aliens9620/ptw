@@ -2,25 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "logical",
-      "mode": "and",
-      "rules": [
-        {
-          "domain_suffix": [
-              "ihmcc.top"
-          ]
-        },
-        {
-          "domain": [
-              "dsm.ihmcc.top",
-              "ntfy.ihmcc.top",
-              "lucky.ihmcc.top"
-          ],
-          "invert": true
-        }
-      ]
-    },
-    {
     "ip_cidr": [
      "192.168.6.0/24"
      ]
