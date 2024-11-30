@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
+             "ottdns.com",
              "teslamotors.com",
              "tesla.com",
              "ntp.org",
