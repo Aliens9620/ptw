@@ -41,6 +41,7 @@
         },
         {
             "domain": [
+                "geo.iproyal.com",
                 "mirrors.vsean.net",
                 "app.pingtools.org",
                 "ghp.ci",
